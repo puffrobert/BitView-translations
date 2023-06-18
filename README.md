@@ -1,4 +1,4 @@
-# BitView Translations
+# BitView Erections
 
 Bonjour! You can now create translations for BitView. Please, use en-US.php as a template.
 ## Useful Information
